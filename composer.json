@@ -1,0 +1,12 @@
+{
+  "name"       : "jeremyfelt/Memcached-Object-Cache",
+  "description": "Forked Memcached backend for the WP Object Cache.",
+  "homepage"   : "https://github.com/jeremyfelt/Memcached-Object-Cache",
+  "type"       : "wordpress-muplugin",
+  "support"    : {
+    "source": "https://github.com/jeremyfelt/Memcached-Object-Cache"
+  },
+  "require"    : {
+    "composer/installers": "~1.0"
+  }
+}
